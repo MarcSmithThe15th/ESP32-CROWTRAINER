@@ -1,30 +1,18 @@
 # Ball Counter Project with ESP32 and Firebase 
 
 ## Table of Contents 
- 
-- [Introduction](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#introduction)
- 
-- [Features](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#features)
- 
-- [Hardware Requirements](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#hardware-requirements)
- 
-- [Software Requirements](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#software-requirements)
- 
-- [Circuit Diagram](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#circuit-diagram)
- 
-- [Installation](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#installation)
- 
-- [Configuration](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#configuration)
- 
-- [Usage](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#usage)
- 
-- [Web Application](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#web-application)
- 
-- [Firebase Setup](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#firebase-setup)
- 
-- [Acknowledgments](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#acknowledgments)
- 
-- [License](https://chatgpt.com/c/673f612d-c3a8-8001-9cd4-16028283994e#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Hardware Requirements](#hardware-requirements)
+- [Software Requirements](#software-requirements)
+- [Circuit Diagram](#circuit-diagram)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Web Application](#web-application)
+- [Firebase Setup](#firebase-setup)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ## Introduction 
 
