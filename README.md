@@ -1,6 +1,9 @@
 # Ball Counter Project with ESP32 and Firebase 
+
 **This repo is under construction, might be almost blank if you land on it (2024-11-25).
+
 **The README.md document has been written by ChatGPT, might contain errors
+
 ## Table of Contents 
 - [Introduction](#introduction)
 - [Features](#features)
