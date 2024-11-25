@@ -239,6 +239,3 @@ This project is licensed under the MIT License - see the [LICENSE]()  file for d
 **Disclaimer** : Ensure you secure your Firebase Realtime Database by updating the security rules before deploying this project in a production environment. Replace all placeholder values with your actual configuration details.
 
 ---
-
-You can now copy and paste this text into your `README.md` file. The markdown formatting should be preserved, and all code snippets are properly formatted.
-Let me know if you need any further assistance!
