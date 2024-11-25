@@ -16,7 +16,7 @@
 
 ## Introduction 
 
-This project is a ball counting system using an ESP32 microcontroller and Firebase Realtime Database. The ESP32 counts the number of balls detected by a sensor and sends the data to Firebase. A web application retrieves this data in real-time and displays it to the user. The system also includes controls to open and close a door using buttons connected to the ESP32.
+This project is a ball counting system using an ESP32 microcontroller and Firebase Realtime Database. The ESP32 counts the number of balls detected by a sensor and sends the data to Firebase. A web application retrieves this data in real-time and displays it to the user. Everytime a ball is detected, a signal is sent to a linear actuator to open a door for a certain period of time and the door is than closed. The system also includes controls to open and close a door using buttons connected to the ESP32.
 
 ## Features 
  
